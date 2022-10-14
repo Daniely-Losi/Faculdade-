@@ -1,6 +1,5 @@
 package Exerc2;
 
-
 public class Pessoa {
 	
 	private String nome;
